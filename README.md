@@ -39,4 +39,4 @@
 
 ---
 
-✨ Thanks for visiting my profile! I’m growing as a developer and sharing my journey here.# odadacynthia3-cyber-
+✨ Thanks for visiting my profile! I’m growing as a developer and sharing my journey here.
