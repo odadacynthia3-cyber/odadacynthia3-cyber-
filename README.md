@@ -1,28 +1,42 @@
-# 🧮 Simple Calculator  
+# 👋 Hi, I'm Felly_webdev 
 
-A simple web-based calculator built with *HTML, CSS, and JavaScript*.  
-This project was created to practice *DOM manipulation, **event handling, and **basic styling*.  
-
----
-
-## ✨ Features
-- ➕ Addition, ➖ Subtraction, ✖ Multiplication, ➗ Division  
-- 🔄 Clear button to reset the calculator  
-- 📱 Responsive design for desktop and mobile  
+💻 *Web Developer* | 🌱 HTML, CSS, JavaScript, PHP, and MySQL | 🚀 Passionate about building projects
 
 ---
 
-## 🛠 Technologies Used
-- 🌐 HTML  
-- 🎨 CSS  
-- ⚡ JavaScript  
+## 🔧 Technologies & Tools
+- 🌐 HTML | CSS | JavaScript | PHP | MySQL
+- 🛠 Git & GitHub  
+- 🖥 Microsoft Office | Internet Research  
 
 ---
 
-## 🚀 How to Use
-1. Clone or download this repo:  
-   ```bash
-   git clone https://github.com/odadacynthia3-cyber /simple-calculator.git!
-##📷**Screenshot**
-   [Screenshot_26-9-2025_161031_](https://github.com/user-attachments/assets/bc8494c0-9cf6-42b5-8a85-9a7cb283c10e)
+## 📚 What I'm Good At
+- Building *responsive websites*
+- Adding *interactivity* with JavaScript  
+- Basics of *Git/GitHub* for version control  
 
+---
+
+## 🎯 Goals for 2025
+- Create and share at least *5 web projects*
+- Build a *personal portfolio website*  
+- Contribute to an *open-source project*
+
+---
+
+## 🏆 Achievements
+- 🎤 Speaker in the Children’s Parliament (Local government level) and a committee member at the state level.  
+- 💡 Leadership, public speaking & teamwork experience
+
+---
+
+## 📫 Let's Connect
+- ✉ Email: odadacynthia3@gmail.com
+- 🌍 Instagram: [@Felly_webdev](https://instagram.com/Felly_webdev)
+- 💼 LinkedIn: (coming soon)
+- 🌍 Portfolio: (coming soon)
+
+---
+
+✨ Thanks for visiting my profile! I’m growing as a developer and sharing my journey here.
